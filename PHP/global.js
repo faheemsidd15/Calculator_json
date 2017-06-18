@@ -1,4 +1,6 @@
 
+//javascript
+// This code did not work
 /*$('.add').on('submit', function () {
 
     var that = $(this),
@@ -18,6 +20,8 @@
     });
 
 });*/
+
+
 
 
 function onSuccess(data, status)
